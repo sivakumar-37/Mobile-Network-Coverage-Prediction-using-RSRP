@@ -14,16 +14,11 @@ Machine Learning,	CloudRF, Wireless Communication, Reference Signal Received Pow
 
 _Regressor -_
 
-Mean Absolute Error: 3.679899888975725
-Mean Squared Error: 23.332161306546578
-Root Mean Squared Error: 4.830337597574995
-
+Mean Absolute Error: 3.679899888975725, Mean Squared Error: 23.332161306546578, Root Mean Squared Error: 4.830337597574995
 R2 Coefficient of Determination:  0.49493215280942787
 
 _Classification -_
 
-Model Accuracy: 0.717948717948718
-Training Accuracy: 0.8264462809917356
-Testing Accuracy: 0.717948717948718
+Model Accuracy: 0.717948717948718, Training Accuracy: 0.8264462809917356, Testing Accuracy: 0.717948717948718
 
 
